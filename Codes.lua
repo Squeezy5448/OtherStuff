@@ -13,5 +13,13 @@
 		"Duration": 2,
 		"Reward": 17322476811,
 		"RewardType": "UGC"
+	},
+	
+	"test": {
+		"Code": "test",
+		"Active": true,
+		"Duration": 0.0001,
+		"Reward": 0,
+		"RewardType": "Spins"
 	}
 }
