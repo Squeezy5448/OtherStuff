@@ -9,5 +9,5 @@
 		"Code": "10stock",
 		"Reward": 17322476811,
 		"RewardType": "UGC"
-	},
+	}
 }
